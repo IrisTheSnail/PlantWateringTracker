@@ -1,4 +1,6 @@
-# PlantWateringTracker
+# PlantWateringTracker 
+[![CI](https://github.com/IrisTheSnail/PlantWateringTracker/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/IrisTheSnail/PlantWateringTracker/actions/workflows/ci.yml)
+
 > PlantWateringTracker is a simple React app that helps you keep track of your plant watering schedule. It features an interactive calendar where you can log watering dates
 
 <div align="center">
